@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there, I'm Varshini A S 👋 - Software Engineer, Frontend Specialist & Full-Stack Enthusiast
 
-<!--
-**varshini-as/varshini-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm Varshini, a passionate software developer skilled in crafting responsive and user-friendly web applications. My expertise lies in **React, TypeScript, and Java**, but I'm always eager to learn and expand my knowledge in the tech world.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 JavaScript | TypeScript | Java
+- ⚛️ React.js | Next.js | Angular | Hibernate
+- 🌐 HTML | CSS | Bootstrap
+- 🧪 Testing Tools: JEST | Postman
+- 🛠️ Tools: Git | IntelliJ
+- 🗄️ Databases: MySQL | MongoDB
+- 🔄 Other Skills: Redux | OOP
+<br><br>
+<br><br>
+📫 **Let's Connect**
+- LinkedIn: [varshini-shivanigi](https://www.linkedin.com/in/varshini-shivanigi/)
+- LeetCode: [varshinicse2018](https://leetcode.com/u/varshinicse2018/)
+<br><br>
+<br><br>
+✍️ **Blogs**
+- [JavaScript Promises: The Basics You Need to Know](https://dev.to/dev-v/javascript-promises-the-basics-you-need-to-know-8k2)
+- [Deep Dive into JavaScript: Lexical Scope, Closures and "this" keyword](https://dev.to/dev-v/deep-dive-into-javascript-lexical-scope-closures-and-this-keyword-3hid)
+<br><br>
+<br><br>
+Feel free to explore my repositories, collaborate, or just say hi! 😊
