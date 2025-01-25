@@ -10,15 +10,15 @@ Welcome to my GitHub! I'm Varshini, a passionate software developer skilled in c
 - 🗄️ Databases: MySQL | MongoDB
 - 🔄 Other Skills: Redux | OOP
 <br><br>
-<br><br>
+
 📫 **Let's Connect**
 - LinkedIn: [varshini-shivanigi](https://www.linkedin.com/in/varshini-shivanigi/)
 - LeetCode: [varshinicse2018](https://leetcode.com/u/varshinicse2018/)
 <br><br>
-<br><br>
+
 ✍️ **Blogs**
 - [JavaScript Promises: The Basics You Need to Know](https://dev.to/dev-v/javascript-promises-the-basics-you-need-to-know-8k2)
 - [Deep Dive into JavaScript: Lexical Scope, Closures and "this" keyword](https://dev.to/dev-v/deep-dive-into-javascript-lexical-scope-closures-and-this-keyword-3hid)
 <br><br>
-<br><br>
+
 Feel free to explore my repositories, collaborate, or just say hi! 😊
